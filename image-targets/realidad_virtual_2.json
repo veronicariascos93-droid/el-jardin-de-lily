@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/realidad_virtual_2_luminance.png",
+  "resources": {
+    "originalImage": "realidad_virtual_2_original.png",
+    "croppedImage": "realidad_virtual_2_cropped.png",
+    "thumbnailImage": "realidad_virtual_2_thumbnail.png",
+    "luminanceImage": "realidad_virtual_2_luminance.png"
+  },
+  "name": "realidad_virtual_2",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 0,
+    "left": 296,
+    "width": 1772,
+    "height": 2363,
+    "isRotated": false,
+    "originalWidth": 2363,
+    "originalHeight": 2363
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795455795915,
+  "updated": 1795455795915
+}
